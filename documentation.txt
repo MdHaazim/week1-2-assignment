@@ -1,50 +1,23 @@
 Project Title
-Brief and informative title; not always the same as the manuscript title
+GitHub + Python + Colab assignment
 
 Brief Project Description
-Try to make this no more than three highly accessible sentences.
+Form a group of 2-4 members and collaborate using GitHub. You will be developing the codes (Python scripts, Jupyter Notebook) from the "Introduction to Python" and "Introduction to Colab" workshops (details below).	
+Create a new repository.
+Add members to your repository.
+Develop the codes.
+Assign different members to handle different tasks in GitHub.
+Have at least 1 reverted commit.
+Explore GitHub's functionalities (e.g. pushing commits, reverting commits, merging branches, documentations, etc.).	
+Submit the GitHub repository link through Teams.
 
-Project Lead(s)
-Anticipated First Author(s)
-
-Faculty Lead(s)
-Anticipated Last Author(s)
-
-Analytic Replicator
-Team member who replicates analyses, as stipulated in the Project Reproducibility Guide
-
-Collaborators
-Include people here as they make contributions (useful as our memory is imperfect and it is bad to forget contributions in long-running projects)
+Project member(s)
+MdHaazim
+ARusy21
+ikwan256
 
 Project Start Date
-Date that project began
-
-Current Project Status
-See the Stages of a Project page
-
-Dataset
-E.g., PNC, HBN, GRMPY, etc
+14/08/2023
 
 Github repo
 Link to github repository for the project
-
-Path to data on filesystem
-Full path to project path on relevant computing cluster (i.e., CUBIC, PMACS, etc)
-
-Slack Channel
-For project communication
-
-Trello board
-For task tracking and keeping project meetings on track; provide link.
-
-Google Drive Folder
-A good place to aggregate and share articles, manuscript drafts, etc; provide link.
-
-Zotero library
-Shared library name for references
-
-Current work products
-I.e., citations to poster presentations, links to preprints, final publication citation
-
-Code documentation
-This section is the bulk of the project page, and can be broken up as best fits the project. Remember that this should be acessible prose that allows your replicator, reviewer, or interested reader to step through your code and understand how the code corresponds to the findings described in the paper. At a minimum, there should be clear documentation regarding sample selection (e.g., inclusion/exclusion), preprocessing (e.g., container version, data freeze), and hypothesis testing (usually in the form of an analytic notebook). See the Project Reproducibility Guide for more information.

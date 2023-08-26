@@ -16,3 +16,7 @@ for x in list:
         pwr.append(y)
 
 print(pwr)
+
+# Testing Testing
+
+# Split,Revert

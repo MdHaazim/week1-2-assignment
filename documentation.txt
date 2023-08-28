@@ -1,0 +1,23 @@
+Project Title
+GitHub + Python + Colab assignment
+
+Brief Project Description
+Form a group of 2-4 members and collaborate using GitHub. You will be developing the codes (Python scripts, Jupyter Notebook) from the "Introduction to Python" and "Introduction to Colab" workshops (details below).	
+Create a new repository.
+Add members to your repository.
+Develop the codes.
+Assign different members to handle different tasks in GitHub.
+Have at least 1 reverted commit.
+Explore GitHub's functionalities (e.g. pushing commits, reverting commits, merging branches, documentations, etc.).	
+Submit the GitHub repository link through Teams.
+
+Project member(s)
+MdHaazim
+ARusy21
+ikwan256
+
+Project Start Date
+14/08/2023
+
+Github repo
+https://github.com/MdHaazim/week1-2-assignment

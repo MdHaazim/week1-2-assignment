@@ -20,4 +20,4 @@ Project Start Date
 14/08/2023
 
 Github repo
-Link to github repository for the project
+https://github.com/MdHaazim/week1-2-assignment/tree/documentation
